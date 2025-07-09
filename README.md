@@ -45,6 +45,7 @@ Update the `MODEL_PATHS` in `expr_config_global.py` to point to your model path 
 Use `run_expr_lora.py` to run the experiments. For instance, to run the GA method on the ORT dataset, you may run the following command:
 
 ```bash
+cd LLaMA-Factory
 python run_expr_lora.py \
     --type=ga_lora \
     --gpu=0 \
@@ -60,6 +61,7 @@ Similarly, you can change the `--type` to `npo_lora / rt_lora / dpo_lora / rocr`
 Use `summarize.py` to generate result summaries. For instance, to summarize the results of NPO, you may run the following command:
 
 ```bash
+cd LLaMA-Factory
 python summarize.py --model=llama3 --type=npo_lora
 ```
 
