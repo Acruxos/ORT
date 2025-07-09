@@ -1,0 +1,6 @@
+RESULTS_DIR: "./results"
+DATA_DIR: "./data"
+STATS_DIR: "./data"
+HPARAMS_DIR: "./src/llmtuner/train/rocr/rocr_hparams"
+KV_DIR: "./data"
+REMOTE_ROOT_URL: "https://memit.baulab.info" 
