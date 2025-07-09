@@ -21,9 +21,9 @@ We provide `run_expr_lora.py` to run the experiments, and `summarize.py` to summ
 
 All datasets are stored in `LLaMA-Factory/data/`. You may need to download the datasets before running the experiments.
 
-Download ORT dataset from [Baidu Netdisk](https://pan.baidu.com/s/1QIcl1CSGg9PjC-e30x96Kg?pwd=x1c9) or [Google Drive](https://drive.google.com/file/d/1tlQDBaJugTYwWcMNBrzoD3Rrx6eBuIfG/view?usp=sharing)
+Download ORT dataset from [[Baidu Netdisk](https://pan.baidu.com/s/1QIcl1CSGg9PjC-e30x96Kg?pwd=x1c9)] or [[Google Drive](https://drive.google.com/file/d/1tlQDBaJugTYwWcMNBrzoD3Rrx6eBuIfG/view?usp=sharing)]
 
-Additionally, ROCR requires the projection matrices of the target model layers to run the experiments. We will upload our pre-computed matrices later.
+Additionally, ROCR requires the projection matrices of the target model layers to run the experiments. Our pre-computed matrices for llama3-8b-instruct can be download from [[Baidu Netdisk](https://pan.baidu.com/s/1mh_Orbz1ZO9DcW9g1kof9w?pwd=mhdq)] or [[Google Drive](https://drive.google.com/file/d/1vPfwPXR4KcaY1b0hRXlzt3vUZ5emafu5/view?usp=sharing)]
 
 The complete `data` directory should look like this:
 

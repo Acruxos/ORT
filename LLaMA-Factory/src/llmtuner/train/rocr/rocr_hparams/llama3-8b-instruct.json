@@ -1,7 +1,7 @@
 {
     "model_name": "Llama3-8B",
     "mode": "unrelated",
-    "layers": [3],
+    "layers": [4,5,6],
     "clamp_norm_factor": 1,
     "layer_selection": "all",
     "fact_token": "subject_last",
