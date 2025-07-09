@@ -70,8 +70,8 @@ This will automatically generate a CSV file with summarized results for easy vie
 
 ## Acknowledgement
 
-The code we conduct our experiments and part of our ORT dataset is based on [`RWKU`](https://github.
-com/jinzhuoran/RWKU) and [`AlphaEdit`](https://github.com/jianghoucheng/AlphaEdit). We thank them for their contributions!
+The code we conduct our experiments and part of our ORT dataset is based on [RWKU](https://github.
+com/jinzhuoran/RWKU) and [AlphaEdit](https://github.com/jianghoucheng/AlphaEdit). We thank them for their contributions!
 
 
 ## Citation
